@@ -3,7 +3,7 @@
 
 seedling I’m currently learning Js, Dart
 
-in my spare time, I also play Mincraft, OpenSpades..
+in my spare time, I also play Minecraft, OpenSpades..
 
 ### :hammer_and_wrench: Tech Stack
 
