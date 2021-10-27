@@ -28,6 +28,7 @@ in my spare time, I also play Minecraft, OpenSpades..
 ![Atom](https://img.shields.io/badge/-Atom-141a20?style=for-the-badge&logo=atom)&nbsp;
 ![Markdown](https://img.shields.io/badge/-MarkDown-141a20?style=for-the-badge&logo=markdown)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-141a20?style=for-the-badge&logo=netlify)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-141a20?style=for-the-badge&logo=figma)&nbsp;
 ![Gimp](https://img.shields.io/badge/-Gimp-141a20?style=for-the-badge&logo=gimp)&nbsp;
 ![Material Design](https://img.shields.io/badge/-Material_Design-141a20?style=for-the-badge&logo=materialdesign)&nbsp;
 
