@@ -13,7 +13,6 @@ in my spare time, I also play Minecraft, OpenSpades..
 ![KDE](https://img.shields.io/badge/-KDE-141a20?style=for-the-badge&logo=kde)&nbsp;
 ![OpenBox](https://img.shields.io/badge/-Openbox-141a20?style=for-the-badge)&nbsp;
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=for-the-badge&logo=arch-linux)&nbsp;
-![Pisi Package Manager](https://img.shields.io/badge/-Pisi_Package_Manager-141a20?style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=for-the-badge&logo=html5)&nbsp;
 ![Pug](https://img.shields.io/badge/-Pug_HTML-141a20?style=for-the-badge&logo=pug)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=for-the-badge&logo=css3)&nbsp;
@@ -30,7 +29,6 @@ in my spare time, I also play Minecraft, OpenSpades..
 ![Netlify](https://img.shields.io/badge/-Netlify-141a20?style=for-the-badge&logo=netlify)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-141a20?style=for-the-badge&logo=figma)&nbsp;
 ![Gimp](https://img.shields.io/badge/-Gimp-141a20?style=for-the-badge&logo=gimp)&nbsp;
-![Material Design](https://img.shields.io/badge/-Material_Design-141a20?style=for-the-badge&logo=materialdesign)&nbsp;
 
 
 ### :gear: GitHub Analytics
