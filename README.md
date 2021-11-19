@@ -30,12 +30,15 @@ in my spare time, I also play Minecraft, OpenSpades..
 ![Figma](https://img.shields.io/badge/-Figma-141a20?style=for-the-badge&logo=figma)&nbsp;
 ![Gimp](https://img.shields.io/badge/-Gimp-141a20?style=for-the-badge&logo=gimp)&nbsp;
 
-
 ### :gear: GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnkalk&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnkalk&show_icons=true&theme=dark&icon_color=ff9800&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnkalk&theme=dark&hide_border=true&hide=html,php,perl&layout=compact)
+
+---
+
+![Github activity grap](https://activity-graph.herokuapp.com/graph?username=gnkalk&bg_color=--&color=b4b4b4&line=ff9800&point=b4b4b4&hide_border=true)
 
 ### :mailbox:  Connect with Me
 
-[![Mail](https://img.shields.io/badge/-Mail-141a20?style=for-the-badge&logo=yahoo)&nbsp;](mailto:gnkalk@yahoo.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-141a20?style=for-the-badge&logo=telegram)&nbsp;](https://t.me/gnkalk_bot)
+[![Mail](https://img.shields.io/badge/-Mail-141a20?style=for-the-badge&logo=yahoo)](mailto:gnkalk@yahoo.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-141a20?style=for-the-badge&logo=telegram)](https://t.me/gnkalk_bot)
