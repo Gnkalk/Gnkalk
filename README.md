@@ -32,11 +32,15 @@ in my spare time, I also play Minecraft, OpenSpades..
 
 ### :gear: GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnkalk&show_icons=true&theme=dark&icon_color=ff9800&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnkalk&theme=dark&hide_border=true&hide=html,php,perl&layout=compact)
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnkalk&show_icons=true&theme=dark&icon_color=ff9800&hide_border=true)
 
 ---
 
 ![Github activity grap](https://activity-graph.herokuapp.com/graph?username=gnkalk&bg_color=--&color=b4b4b4&line=ff9800&point=b4b4b4&hide_border=true)
+  
+</div>  
 
 ### :mailbox:  Connect with Me
 
