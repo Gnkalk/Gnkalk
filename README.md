@@ -22,12 +22,12 @@ in my spare time, I also play Minecraft, OpenSpades..
 ![Git](https://img.shields.io/badge/-Git-141a20?style=for-the-badge&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-141a20?style=for-the-badge&logo=github)&nbsp;
 ![Cloud Flare](https://img.shields.io/badge/-Cloud_Flare-141a20?style=for-the-badge&logo=cloudflare)&nbsp;
-![Zoho Mail](https://img.shields.io/badge/-Zoho_Mail-141a20?style=for-the-badge)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VS_Code-141a20?style=for-the-badge&logo=visualstudiocode)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-141a20?style=for-the-badge&logo=atom)&nbsp;
 ![Markdown](https://img.shields.io/badge/-MarkDown-141a20?style=for-the-badge&logo=markdown)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-141a20?style=for-the-badge&logo=netlify)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-141a20?style=for-the-badge&logo=figma)&nbsp;
+![Inkscape](https://img.shields.io/badge/-Inkscape-141a20?style=for-the-badge&logo=inkscape)&nbsp;
 ![Gimp](https://img.shields.io/badge/-Gimp-141a20?style=for-the-badge&logo=gimp)&nbsp;
 
 ### :gear: GitHub Analytics
