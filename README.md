@@ -1,5 +1,5 @@
 ## Hi there, Im Gnkalk 👋
-### 🧑🏻‍🦱 About Me
+### 👤 About Me
 
 seedling I’m currently learning Js, Dart
 
