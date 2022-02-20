@@ -34,6 +34,8 @@ in my spare time, I also play Minecraft, OpenSpades..
 
 <div align="center">
 
+![PC :)](https://github.com/Gnkalk/Gnkalk/blob/main/img/PC.svg)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnkalk&show_icons=true&theme=dark&icon_color=ff9800&hide_border=true)
 
 ---
