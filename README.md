@@ -34,8 +34,8 @@ in my spare time, I also play Minecraft, OpenSpades..
 
 <div align="center">
 
-<img src="https://github.com/Gnkalk/Gnkalk/blob/main/img/PC.svg" width="375px" alt="PC :))">
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gnkalk&show_icons=true&theme=dark&icon_color=ff9800&hide_border=true">
+<img src="https://github.com/Gnkalk/Gnkalk/blob/main/img/PC.svg" width="40%" alt="PC :))">
+<img src="https://github-readme-stats.vercel.app/api?username=Gnkalk&show_icons=true&theme=dark&icon_color=ff9800&hide_border=true" width="50%" alt="GitHub stats">
 
 ---
 
