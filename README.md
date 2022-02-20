@@ -38,9 +38,9 @@ in my spare time, I also play Minecraft, OpenSpades..
 
 ---
 
-![Github activity grap](https://activity-graph.herokuapp.com/graph?username=gnkalk&bg_color=--&color=b4b4b4&line=ff9800&point=b4b4b4&hide_border=true)
+![Github snake](https://github.com/Gnkalk/Gnkalk/blob/output/github-contribution-grid-snake.svg)
   
-</div>  
+</div> 
 
 ### :mailbox:  Connect with Me
 
