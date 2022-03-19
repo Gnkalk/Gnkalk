@@ -1,7 +1,7 @@
 ## Hi there, Im Gnkalk 👋
 ### 👤 About Me
 
-seedling I’m currently learning Js, Dart
+seedling I’m currently learning Go, Dart
 
 in my spare time, I also play Minecraft, OpenSpades..
 
@@ -17,6 +17,7 @@ in my spare time, I also play Minecraft, OpenSpades..
 ![Pug](https://img.shields.io/badge/-Pug_HTML-141a20?style=for-the-badge&logo=pug)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=for-the-badge&logo=css3)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-141a20?style=for-the-badge&logo=sass)&nbsp;
+![JS](https://img.shields.io/badge/-JS-141a20?style=for-the-badge&logo=javascript)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-141a20?style=for-the-badge&logo=bulma)&nbsp;
 ![Hugo](https://img.shields.io/badge/-Hugo-141a20?style=for-the-badge&logo=hugo)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=for-the-badge&logo=git)&nbsp;
