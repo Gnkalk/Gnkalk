@@ -1,12 +1,13 @@
 ## Hi there, Im Gnkalk 👋
 ### 👤 About Me
 
-seedling I’m currently learning Go, Dart
+seedling I’m currently learning Dart(Flutter), Stylus, JS
 
-in my spare time, I also play Minecraft, OpenSpades..
+in my spare time, I also play Minecraft...
 
 ### :hammer_and_wrench: Tech Stack
 
+<!--
 ![Linux](https://img.shields.io/badge/-Linux-141a20?style=for-the-badge&logo=linux)&nbsp;
 ![Solus linux](https://img.shields.io/badge/-Solus_Linux-141a20?style=for-the-badge&logo=solus)&nbsp;
 ![Gnome](https://img.shields.io/badge/-Gnome-141a20?style=for-the-badge&logo=gnome)&nbsp;
@@ -30,20 +31,28 @@ in my spare time, I also play Minecraft, OpenSpades..
 ![Figma](https://img.shields.io/badge/-Figma-141a20?style=for-the-badge&logo=figma)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-Inkscape-141a20?style=for-the-badge&logo=inkscape)&nbsp;
 ![Gimp](https://img.shields.io/badge/-Gimp-141a20?style=for-the-badge&logo=gimp)&nbsp;
+-->
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,pug,js,dart,linux,bash,vscode,figma,git,github,cloudflare)](https://skillicons.dev)
 
 ### :gear: GitHub Analytics
 
+<!--
 <div align="center">
 
 <img src="https://github.com/Gnkalk/Gnkalk/blob/main/img/PC.svg" width="40%" alt="PC :))">
 <img src="https://github-readme-stats.vercel.app/api?username=Gnkalk&show_icons=true&theme=dark&icon_color=ff9800&hide_border=true" width="50%" alt="GitHub stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gnkalk&hide_border=true&date_format=j%20M%5B%20Y%5D">
 
-
-<img src="https://github.com/Gnkalk/Gnkalk/blob/output/github-contribution-grid-snake.svg" width="95%" alt="Github snake">
-  
 </div> 
+-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gnkalk&theme=github_dark)
 
 ### :mailbox:  Connect with Me
 
 [![Mail](https://img.shields.io/badge/-Mail-141a20?style=for-the-badge&logo=yahoo)](mailto:gnkalk@yahoo.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-141a20?style=for-the-badge&logo=telegram)](https://t.me/gnkalk_bot)
+[![Telegram](https://img.shields.io/badge/-Telegram-141a20?style=for-the-badge&logo=telegram)](https://t.me/Khode_gnkalk)
+
+
+<img src="https://github.com/Gnkalk/Gnkalk/blob/output/github-contribution-grid-snake.svg" width="100%">
+
