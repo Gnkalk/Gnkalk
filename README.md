@@ -50,8 +50,8 @@ in my spare time, I also play Minecraft...
 
 ### :mailbox:  Connect with Me
 
-[![Mail](https://img.shields.io/badge/-Mail-141a20?style=for-the-badge&logo=yahoo)](mailto:gnkalk@yahoo.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-141a20?style=for-the-badge&logo=telegram)](https://t.me/Khode_gnkalk)
+[![Mail](https://img.shields.io/badge/-141a20?style=for-the-badge&logo=yahoo)](mailto:gnkalk@yahoo.com)
+[![Telegram](https://img.shields.io/badge/-141a20?style=for-the-badge&logo=telegram)](https://t.me/gnkalk_Message_bot)
 
 
 <img src="https://github.com/Gnkalk/Gnkalk/blob/output/github-contribution-grid-snake.svg" width="100%">
